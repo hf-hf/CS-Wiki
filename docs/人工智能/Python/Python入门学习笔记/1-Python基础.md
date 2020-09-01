@@ -422,7 +422,7 @@ dict 全称 dictionary，<u>在其他语言中也称为 map</u>，使用 键-值
 
   ```python
   print(d.get('Thomas')) # None
-  print(d.get('Thomas', -1) # -1
+  print(d.get('Thomas', -1)) # -1
   ```
 
 - **删除**
